@@ -1,0 +1,401 @@
+name,tel_number,email,address,city,organization,specialty,fee,rating,lat,lng
+Nabeel Sabbagh,+961 80 234 389,nabeel.sabbagh0@example.com,"333 Main St, Byblos",Byblos,AUBMC Clinic,ENT Specialist,65.87,3.9,34.114955,35.660838
+Tarek Saliba,+961 75 926 119,tarek.saliba1@example.com,"574 Mar Elias St, Tripoli",Tripoli,Coastal Med Tyre,Family Physician,1531.3,4.6,34.434669,35.852129
+Sara Abi Chahine,+961 72 766 584,sara.abi chahine2@example.com,"948 Furn El Chebbak Rd, Baabda",Baabda,Coastal Med Tyre,Endocrinologist,1498.22,4.4,33.819055,35.535232
+Samir Ayoub,+961 76 174 942,samir.ayoub3@example.com,"947 Foch St, Jounieh",Jounieh,South Coast Medical,Ophthalmologist,234.52,4.3,33.993531,35.60722
+Ralph Najjar,+961 73 769 404,ralph.najjar4@example.com,"161 Verdun St, Beirut",Beirut,Coastal Med Tyre,Orthopedic Surgeon,74.11,3.7,33.880208,35.500276
+Karim Masri,+961 81 265 423,karim.masri5@example.com,"764 Mar Elias St, Byblos",Byblos,North Care Hospital,Cardiologist,155.5,3.9,34.115902,35.650181
+Karim Haddad,+961 77 774 328,karim.haddad6@example.com,"54 Abdel Aziz St, Zahle",Zahle,South Coast Medical,Psychiatrist,1095.49,4.7,33.857984,35.892997
+Dina Sleiman,+961 81 683 185,dina.sleiman7@example.com,"105 Furn El Chebbak Rd, Tripoli",Tripoli,LAU Medical Center,Endocrinologist,285.23,4.3,34.449072,35.843883
+Yara Haddad,+961 72 557 193,yara.haddad8@example.com,"900 Sursock St, Tripoli",Tripoli,South Coast Medical,Dermatologist,1313.85,4.9,34.427202,35.860816
+Sara Masri,+961 70 529 317,sara.masri9@example.com,"163 Emile Lahoud Blvd, Tripoli",Tripoli,South Coast Medical,Gastroenterologist,246.54,4.4,34.451516,35.837487
+Rami Chamoun,+961 80 401 267,rami.chamoun10@example.com,"873 Mar Elias St, Tyre",Tyre,South Coast Medical,Endocrinologist,813.92,3.9,33.261749,35.193172
+Joe Fares,+961 71 840 902,joe.fares11@example.com,"457 Sursock St, Batroun",Batroun,Beirut General Hospital,Neurologist,1331.59,5.0,34.252473,35.665411
+Nour Khoury,+961 71 333 391,nour.khoury12@example.com,"122 Main St, Zahle",Zahle,St. George Hospital,Ophthalmologist,845.61,3.2,33.854001,35.916656
+Samir Bitar,+961 80 443 230,samir.bitar13@example.com,"486 Sursock St, Jounieh",Jounieh,North Care Hospital,Ophthalmologist,398.63,3.9,33.966393,35.630503
+Hussein Azar,+961 73 103 855,hussein.azar14@example.com,"94 Hamra St, Jounieh",Jounieh,South Coast Medical,Pediatrician,617.25,5.0,33.98496,35.613285
+Nabeel Fakhry,+961 72 878 613,nabeel.fakhry15@example.com,"467 Abdel Aziz St, Tripoli",Tripoli,LAU Medical Center,Urologist,226.32,4.5,34.427686,35.852614
+Walid Nehme,+961 75 441 578,walid.nehme16@example.com,"766 Emile Lahoud Blvd, Batroun",Batroun,AUBMC Clinic,Dentist,1389.8,3.9,34.262445,35.672798
+Hala Makhlouf,+961 78 140 856,hala.makhlouf17@example.com,"173 Sursock St, Baabda",Baabda,St. George Hospital,Orthopedic Surgeon,377.03,4.0,33.821327,35.545415
+Layla Habib,+961 74 483 144,layla.habib18@example.com,"30 Mar Elias St, Baabda",Baabda,North Care Hospital,General Surgeon,1378.43,4.9,33.843208,35.551623
+Mona Habib,+961 76 556 462,mona.habib19@example.com,"164 Gouraud St, Byblos",Byblos,Byblos Health Center,Endocrinologist,1238.9,4.4,34.115291,35.639893
+Rami Abi Chahine,+961 74 297 559,rami.abi chahine20@example.com,"555 Abdel Aziz St, Baalbek",Baalbek,Coastal Med Tyre,Neurologist,573.26,3.9,34.005843,36.227455
+Ralph Sabbagh,+961 73 886 535,ralph.sabbagh21@example.com,"269 Furn El Chebbak Rd, Baalbek",Baalbek,St. George Hospital,Gynecologist,1603.1,4.9,34.008138,36.224493
+Aisha Atallah,+961 71 667 562,aisha.atallah22@example.com,"671 Emile Lahoud Blvd, Beirut",Beirut,North Care Hospital,General Surgeon,1255.37,4.0,33.880858,35.504864
+Ralph Iskandar,+961 71 965 577,ralph.iskandar23@example.com,"256 Foch St, Tyre",Tyre,Mount Lebanon Clinic,Pediatrician,1818.05,3.1,33.270237,35.207863
+Yara Helou,+961 78 119 790,yara.helou24@example.com,"268 Hamra St, Sidon",Sidon,Mount Lebanon Clinic,Dentist,218.38,3.4,33.549022,35.375152
+Rana Choueiri,+961 79 844 645,rana.choueiri25@example.com,"812 Hamra St, Tripoli",Tripoli,St. George Hospital,Dermatologist,1566.97,3.7,34.447831,35.847309
+Nour Ayoub,+961 72 324 253,nour.ayoub26@example.com,"299 Hamra St, Beirut",Beirut,Valley Medical Zahle,Urologist,757.78,4.2,33.890551,35.513039
+Rita Saad,+961 71 323 704,rita.saad27@example.com,"15 Main St, Batroun",Batroun,North Care Hospital,ENT Specialist,365.87,3.1,34.260938,35.655559
+Rana Abi Chahine,+961 78 742 701,rana.abi chahine28@example.com,"779 Hamra St, Beirut",Beirut,Valley Medical Zahle,ENT Specialist,923.15,3.4,33.890785,35.512723
+Rami Saliba,+961 81 722 745,rami.saliba29@example.com,"813 Bliss St, Zahle",Zahle,St. George Hospital,General Surgeon,616.62,4.9,33.832572,35.904611
+Ziad Ayoub,+961 81 810 850,ziad.ayoub30@example.com,"148 Verdun St, Tripoli",Tripoli,Mount Lebanon Clinic,Family Physician,132.14,3.6,34.441398,35.854136
+Mira Habib,+961 77 251 835,mira.habib31@example.com,"767 Gouraud St, Jounieh",Jounieh,Mount Lebanon Clinic,Gastroenterologist,75.55,4.0,33.987797,35.617105
+Joe Helou,+961 75 996 785,joe.helou32@example.com,"300 Mar Elias St, Tripoli",Tripoli,Coastal Med Tyre,Cardiologist,1412.79,3.3,34.426609,35.863994
+Hadi Azar,+961 79 545 999,hadi.azar33@example.com,"343 Pasteur St, Zahle",Zahle,Byblos Health Center,Endocrinologist,396.29,3.8,33.849031,35.915565
+Omar Sabbagh,+961 81 134 449,omar.sabbagh34@example.com,"135 Mar Elias St, Tripoli",Tripoli,South Coast Medical,Orthopedic Surgeon,1624.88,3.9,34.446735,35.848992
+Khaled Kamal,+961 74 461 871,khaled.kamal35@example.com,"321 Main St, Zahle",Zahle,Coastal Med Tyre,Pediatrician,994.46,4.4,33.84133,35.903005
+Khaled Nassar,+961 77 510 568,khaled.nassar36@example.com,"578 Foch St, Baalbek",Baalbek,AUBMC Clinic,ENT Specialist,1305.77,4.2,34.002214,36.22263
+Yara Najjar,+961 78 540 978,yara.najjar37@example.com,"961 Sursock St, Byblos",Byblos,Beirut General Hospital,Neurologist,1449.59,3.3,34.109231,35.660983
+Joe Sleiman,+961 70 719 341,joe.sleiman38@example.com,"396 Verdun St, Byblos",Byblos,AUBMC Clinic,Dentist,1198.85,4.3,34.111217,35.662142
+Yara Karam,+961 72 789 157,yara.karam39@example.com,"184 Main St, Jounieh",Jounieh,Mount Lebanon Clinic,Cardiologist,1148.63,4.7,33.994383,35.62871
+Rita Atallah,+961 79 276 555,rita.atallah40@example.com,"914 Hamra St, Zahle",Zahle,South Coast Medical,Cardiologist,1347.3,3.7,33.859938,35.915604
+Walid Chamoun,+961 74 236 376,walid.chamoun41@example.com,"110 Pasteur St, Baabda",Baabda,Byblos Health Center,Cardiologist,176.99,5.0,33.830254,35.544858
+Mona Habib,+961 71 753 798,mona.habib42@example.com,"488 Abdel Aziz St, Jounieh",Jounieh,AUBMC Clinic,Cardiologist,313.45,4.7,33.982184,35.605025
+Rita Habib,+961 74 844 939,rita.habib43@example.com,"93 Furn El Chebbak Rd, Sidon",Sidon,South Coast Medical,Family Physician,996.33,4.2,33.572439,35.373249
+Karim Helou,+961 77 545 481,karim.helou44@example.com,"422 Abdel Aziz St, Byblos",Byblos,South Coast Medical,Dentist,1363.84,4.3,34.12475,35.651137
+Dina Fakhry,+961 78 908 179,dina.fakhry45@example.com,"8 Hamra St, Tripoli",Tripoli,Byblos Health Center,Dermatologist,952.54,3.2,34.422162,35.854288
+Aisha Ayoub,+961 70 105 886,aisha.ayoub46@example.com,"634 Bliss St, Sidon",Sidon,Mount Lebanon Clinic,Pediatrician,433.37,4.2,33.57219,35.385585
+Dina Nehme,+961 70 131 974,dina.nehme47@example.com,"613 Furn El Chebbak Rd, Zahle",Zahle,LAU Medical Center,Ophthalmologist,168.08,4.8,33.860923,35.900006
+Nour Sabbagh,+961 72 733 629,nour.sabbagh48@example.com,"600 Emile Lahoud Blvd, Baabda",Baabda,St. George Hospital,Endocrinologist,1922.48,4.6,33.848114,35.530049
+Walid Habib,+961 70 532 269,walid.habib49@example.com,"376 Sursock St, Batroun",Batroun,St. George Hospital,Urologist,1165.75,3.8,34.259643,35.651674
+Nabeel Chamoun,+961 79 452 960,nabeel.chamoun50@example.com,"218 Jal El Dib Hwy, Beirut",Beirut,LAU Medical Center,Ophthalmologist,817.35,4.5,33.892026,35.492175
+Hussein Kamal,+961 76 268 589,hussein.kamal51@example.com,"758 Verdun St, Byblos",Byblos,South Coast Medical,Gastroenterologist,1376.0,4.6,34.114832,35.644524
+Jad Khoury,+961 75 870 488,jad.khoury52@example.com,"293 Jal El Dib Hwy, Batroun",Batroun,Mount Lebanon Clinic,Dermatologist,1335.92,3.6,34.246902,35.670122
+Lina Azar,+961 81 127 179,lina.azar53@example.com,"534 Hamra St, Tyre",Tyre,Valley Medical Zahle,Gastroenterologist,704.67,3.1,33.276894,35.203568
+Ralph Nehme,+961 79 554 637,ralph.nehme54@example.com,"896 Abdel Aziz St, Tyre",Tyre,Coastal Med Tyre,Gastroenterologist,838.95,3.4,33.271151,35.191708
+Layla Karam,+961 73 128 523,layla.karam55@example.com,"386 Foch St, Zahle",Zahle,LAU Medical Center,Neurologist,979.48,3.1,33.838577,35.907614
+Mira Bitar,+961 79 653 488,mira.bitar56@example.com,"583 Abdel Aziz St, Tyre",Tyre,Mount Lebanon Clinic,Neurologist,1901.09,3.9,33.287439,35.206222
+Samir Iskandar,+961 80 285 844,samir.iskandar57@example.com,"353 Verdun St, Byblos",Byblos,Byblos Health Center,Endocrinologist,584.93,4.1,34.121291,35.654929
+Rana Atallah,+961 78 289 387,rana.atallah58@example.com,"209 Pasteur St, Baalbek",Baalbek,St. George Hospital,General Surgeon,808.01,3.1,33.999,36.22677
+Walid Sleiman,+961 70 551 853,walid.sleiman59@example.com,"749 Furn El Chebbak Rd, Sidon",Sidon,St. George Hospital,Cardiologist,534.57,3.1,33.551715,35.37145
+Fadi Haddad,+961 78 724 323,fadi.haddad60@example.com,"846 Emile Lahoud Blvd, Baalbek",Baalbek,AUBMC Clinic,ENT Specialist,288.46,4.6,34.009317,36.214341
+Ziad Azar,+961 80 298 386,ziad.azar61@example.com,"465 Bliss St, Zahle",Zahle,Coastal Med Tyre,General Surgeon,969.5,4.4,33.833797,35.914836
+Hussein Najjar,+961 70 526 481,hussein.najjar62@example.com,"611 Sursock St, Tripoli",Tripoli,Valley Medical Zahle,Dentist,1363.78,4.1,34.435167,35.847303
+Joe Nassar,+961 80 257 489,joe.nassar63@example.com,"120 Bliss St, Byblos",Byblos,Beirut General Hospital,Urologist,743.13,4.9,34.128193,35.655029
+Elie Ayoub,+961 78 386 924,elie.ayoub64@example.com,"688 Gouraud St, Baabda",Baabda,Valley Medical Zahle,Dermatologist,1128.99,4.5,33.821889,35.552285
+Mona Saliba,+961 72 486 227,mona.saliba65@example.com,"986 Main St, Jounieh",Jounieh,Byblos Health Center,Psychiatrist,1258.25,4.6,33.969752,35.61377
+Yara Bitar,+961 75 903 737,yara.bitar66@example.com,"161 Verdun St, Tyre",Tyre,Coastal Med Tyre,Pediatrician,1901.06,4.2,33.276587,35.202531
+Layla Masri,+961 76 588 100,layla.masri67@example.com,"204 Main St, Batroun",Batroun,Valley Medical Zahle,Family Physician,776.24,3.2,34.256846,35.65235
+Tarek Karam,+961 74 278 791,tarek.karam68@example.com,"367 Bliss St, Baabda",Baabda,Byblos Health Center,Ophthalmologist,1230.42,4.9,33.836267,35.558205
+Khaled Makhlouf,+961 72 193 779,khaled.makhlouf69@example.com,"963 Jal El Dib Hwy, Zahle",Zahle,South Coast Medical,General Surgeon,1262.2,3.1,33.843414,35.894484
+Dina Makhlouf,+961 73 259 430,dina.makhlouf70@example.com,"631 Abdel Aziz St, Sidon",Sidon,Mount Lebanon Clinic,Neurologist,91.89,4.2,33.555479,35.37643
+Yara Chamoun,+961 81 470 324,yara.chamoun71@example.com,"572 Pasteur St, Jounieh",Jounieh,Mount Lebanon Clinic,Pediatrician,467.01,5.0,33.976203,35.602815
+Mira Chamoun,+961 72 445 922,mira.chamoun72@example.com,"348 Main St, Zahle",Zahle,AUBMC Clinic,Urologist,176.75,4.4,33.851059,35.888931
+Rana Chamoun,+961 78 716 431,rana.chamoun73@example.com,"293 Hamra St, Sidon",Sidon,St. George Hospital,Endocrinologist,346.14,3.8,33.55326,35.383903
+Lina Chamoun,+961 78 850 933,lina.chamoun74@example.com,"591 Gouraud St, Batroun",Batroun,South Coast Medical,Gynecologist,90.43,3.3,34.264982,35.661461
+Jad Nehme,+961 70 689 157,jad.nehme75@example.com,"795 Emile Lahoud Blvd, Sidon",Sidon,Mount Lebanon Clinic,Neurologist,1772.88,4.1,33.566268,35.381488
+Lina Nehme,+961 75 939 767,lina.nehme76@example.com,"388 Verdun St, Byblos",Byblos,South Coast Medical,Dermatologist,1898.8,4.1,34.117912,35.637297
+Khaled Sabbagh,+961 72 205 314,khaled.sabbagh77@example.com,"599 Abdel Aziz St, Tripoli",Tripoli,AUBMC Clinic,ENT Specialist,1637.81,3.8,34.422336,35.846605
+Maya Sabbagh,+961 71 748 697,maya.sabbagh78@example.com,"872 Abdel Aziz St, Sidon",Sidon,LAU Medical Center,Neurologist,1878.54,4.2,33.568736,35.382248
+Nabeel Kamal,+961 74 853 706,nabeel.kamal79@example.com,"515 Verdun St, Beirut",Beirut,Coastal Med Tyre,Family Physician,707.7,4.1,33.900096,35.509676
+Sara Makhlouf,+961 73 375 773,sara.makhlouf80@example.com,"886 Foch St, Tyre",Tyre,St. George Hospital,Neurologist,406.25,4.4,33.278283,35.18428
+Yara Haddad,+961 72 753 667,yara.haddad81@example.com,"418 Mar Elias St, Tyre",Tyre,Valley Medical Zahle,Ophthalmologist,1405.83,4.8,33.281368,35.206479
+Nabeel Habib,+961 73 561 244,nabeel.habib82@example.com,"226 Gouraud St, Zahle",Zahle,Byblos Health Center,ENT Specialist,1898.17,4.7,33.860855,35.898453
+Joe Abi Chahine,+961 73 693 441,joe.abi chahine83@example.com,"292 Furn El Chebbak Rd, Jounieh",Jounieh,Byblos Health Center,Urologist,87.1,4.4,33.967075,35.629375
+Tarek Khoury,+961 71 967 378,tarek.khoury84@example.com,"876 Pasteur St, Sidon",Sidon,Byblos Health Center,Endocrinologist,1722.69,4.2,33.543339,35.366033
+Nadia Azar,+961 73 914 930,nadia.azar85@example.com,"38 Furn El Chebbak Rd, Baalbek",Baalbek,Coastal Med Tyre,Endocrinologist,62.49,4.3,34.011004,36.208124
+Joe Nassar,+961 72 763 917,joe.nassar86@example.com,"263 Abdel Aziz St, Tyre",Tyre,St. George Hospital,General Surgeon,1190.7,3.0,33.282801,35.189036
+Hala Makhlouf,+961 72 429 346,hala.makhlouf87@example.com,"814 Emile Lahoud Blvd, Sidon",Sidon,North Care Hospital,Ophthalmologist,898.91,4.1,33.568573,35.372235
+Joe Kamal,+961 75 749 224,joe.kamal88@example.com,"442 Bliss St, Zahle",Zahle,South Coast Medical,Pediatrician,50.11,4.0,33.856718,35.888434
+Khaled Najjar,+961 79 506 829,khaled.najjar89@example.com,"934 Main St, Tyre",Tyre,Valley Medical Zahle,General Surgeon,911.96,3.5,33.287696,35.206978
+Omar Azar,+961 77 605 969,omar.azar90@example.com,"472 Bliss St, Baabda",Baabda,Byblos Health Center,Psychiatrist,1858.48,3.8,33.825467,35.553569
+Rami Khoury,+961 74 956 481,rami.khoury91@example.com,"179 Hamra St, Baabda",Baabda,AUBMC Clinic,Family Physician,1734.72,3.8,33.844494,35.531405
+Maya Obeid,+961 73 360 737,maya.obeid92@example.com,"59 Abdel Aziz St, Jounieh",Jounieh,AUBMC Clinic,Psychiatrist,1325.99,4.1,33.974043,35.630307
+Hadi Fakhry,+961 79 284 130,hadi.fakhry93@example.com,"719 Jal El Dib Hwy, Tyre",Tyre,Byblos Health Center,Family Physician,880.83,4.2,33.276531,35.189181
+Ziad Helou,+961 76 247 169,ziad.helou94@example.com,"896 Main St, Baabda",Baabda,AUBMC Clinic,Orthopedic Surgeon,939.13,4.8,33.848411,35.541749
+Ziad Najjar,+961 80 820 869,ziad.najjar95@example.com,"465 Jal El Dib Hwy, Zahle",Zahle,South Coast Medical,Pediatrician,175.57,3.2,33.856863,35.908239
+Hussein Choueiri,+961 73 565 104,hussein.choueiri96@example.com,"115 Gouraud St, Sidon",Sidon,Coastal Med Tyre,Gynecologist,321.32,4.0,33.550012,35.370063
+Karim Bitar,+961 79 878 651,karim.bitar97@example.com,"630 Pasteur St, Jounieh",Jounieh,Byblos Health Center,Urologist,1830.54,4.1,33.972143,35.630182
+Rana Nassar,+961 71 928 425,rana.nassar98@example.com,"391 Furn El Chebbak Rd, Jounieh",Jounieh,Mount Lebanon Clinic,Neurologist,1271.67,4.3,33.96879,35.616415
+Karim Masri,+961 75 870 761,karim.masri99@example.com,"121 Sursock St, Sidon",Sidon,St. George Hospital,Orthopedic Surgeon,400.17,4.2,33.547565,35.377381
+Tarek Karam,+961 72 675 947,tarek.karam100@example.com,"928 Foch St, Zahle",Zahle,Valley Medical Zahle,Neurologist,1239.47,4.0,33.843926,35.898593
+Ralph Choueiri,+961 77 670 850,ralph.choueiri101@example.com,"998 Hamra St, Sidon",Sidon,Beirut General Hospital,ENT Specialist,102.38,4.5,33.561293,35.36965
+Tarek Fares,+961 73 826 456,tarek.fares102@example.com,"376 Furn El Chebbak Rd, Byblos",Byblos,Mount Lebanon Clinic,Gynecologist,1372.8,3.7,34.114652,35.65637
+Elie Sabbagh,+961 79 625 764,elie.sabbagh103@example.com,"588 Jal El Dib Hwy, Baalbek",Baalbek,Beirut General Hospital,Gastroenterologist,607.04,3.7,34.019584,36.22055
+Maya Nassar,+961 75 707 207,maya.nassar104@example.com,"229 Hamra St, Zahle",Zahle,Mount Lebanon Clinic,Dentist,274.04,3.8,33.845288,35.915824
+Rita Sabbagh,+961 70 511 116,rita.sabbagh105@example.com,"634 Bliss St, Batroun",Batroun,Valley Medical Zahle,Psychiatrist,1254.3,4.2,34.258972,35.671795
+Elie Chamoun,+961 72 662 299,elie.chamoun106@example.com,"481 Sursock St, Tyre",Tyre,North Care Hospital,Gastroenterologist,231.07,4.5,33.261601,35.198993
+Rana Obeid,+961 78 883 274,rana.obeid107@example.com,"285 Furn El Chebbak Rd, Beirut",Beirut,Valley Medical Zahle,General Surgeon,631.4,3.6,33.881992,35.515867
+Omar Chamoun,+961 74 151 961,omar.chamoun108@example.com,"112 Emile Lahoud Blvd, Tyre",Tyre,Valley Medical Zahle,ENT Specialist,1833.48,3.6,33.276022,35.205445
+Maya Makhlouf,+961 74 614 299,maya.makhlouf109@example.com,"688 Jal El Dib Hwy, Jounieh",Jounieh,LAU Medical Center,Cardiologist,878.73,4.1,33.969234,35.624881
+Tarek Barakat,+961 74 123 204,tarek.barakat110@example.com,"144 Furn El Chebbak Rd, Tyre",Tyre,LAU Medical Center,ENT Specialist,477.19,4.5,33.262878,35.199077
+Hadi Najjar,+961 76 150 889,hadi.najjar111@example.com,"217 Hamra St, Tripoli",Tripoli,Mount Lebanon Clinic,Neurologist,1413.04,3.2,34.426068,35.859174
+Ziad Fakhry,+961 80 771 997,ziad.fakhry112@example.com,"889 Furn El Chebbak Rd, Sidon",Sidon,St. George Hospital,Cardiologist,1673.36,3.1,33.549467,35.381979
+Elie Saleh,+961 74 384 837,elie.saleh113@example.com,"476 Gouraud St, Zahle",Zahle,South Coast Medical,Psychiatrist,798.43,3.0,33.851669,35.913188
+Khaled Saad,+961 76 512 954,khaled.saad114@example.com,"74 Furn El Chebbak Rd, Sidon",Sidon,Coastal Med Tyre,Cardiologist,1900.63,4.8,33.568995,35.370594
+Nadia Choueiri,+961 81 195 672,nadia.choueiri115@example.com,"155 Jal El Dib Hwy, Baabda",Baabda,Mount Lebanon Clinic,Urologist,1961.3,4.8,33.840568,35.553715
+Hussein Barakat,+961 78 744 831,hussein.barakat116@example.com,"480 Abdel Aziz St, Byblos",Byblos,AUBMC Clinic,Psychiatrist,1844.83,4.9,34.123423,35.659873
+Karim Fakhry,+961 80 465 516,karim.fakhry117@example.com,"803 Hamra St, Tyre",Tyre,Coastal Med Tyre,ENT Specialist,1620.16,3.7,33.272034,35.186815
+Mona Barakat,+961 76 148 532,mona.barakat118@example.com,"629 Foch St, Batroun",Batroun,St. George Hospital,Gynecologist,262.35,3.3,34.243702,35.654841
+Aisha Khoury,+961 81 603 617,aisha.khoury119@example.com,"12 Gouraud St, Baalbek",Baalbek,Byblos Health Center,Gastroenterologist,736.36,4.6,33.99958,36.231157
+Mona Sabbagh,+961 71 252 932,mona.sabbagh120@example.com,"901 Foch St, Batroun",Batroun,Byblos Health Center,Urologist,925.63,4.7,34.257072,35.665514
+Nabeel Haddad,+961 81 607 899,nabeel.haddad121@example.com,"23 Verdun St, Beirut",Beirut,South Coast Medical,Dentist,829.88,3.6,33.886622,35.489493
+Hadi Barakat,+961 73 493 414,hadi.barakat122@example.com,"83 Gouraud St, Batroun",Batroun,Byblos Health Center,Urologist,1551.77,3.6,34.240434,35.660928
+Hussein Abi Chahine,+961 79 138 475,hussein.abi chahine123@example.com,"161 Verdun St, Zahle",Zahle,Mount Lebanon Clinic,Orthopedic Surgeon,953.03,3.7,33.846307,35.901328
+Samir Fakhry,+961 73 880 329,samir.fakhry124@example.com,"841 Bliss St, Byblos",Byblos,South Coast Medical,Pediatrician,742.88,4.3,34.112223,35.638436
+Maya Obeid,+961 78 288 990,maya.obeid125@example.com,"231 Abdel Aziz St, Baabda",Baabda,Beirut General Hospital,Neurologist,1476.22,4.1,33.839097,35.550418
+Aisha Abi Chahine,+961 77 934 508,aisha.abi chahine126@example.com,"979 Bliss St, Byblos",Byblos,Valley Medical Zahle,General Surgeon,228.91,3.2,34.132984,35.646542
+Joe Fakhry,+961 79 292 767,joe.fakhry127@example.com,"334 Foch St, Zahle",Zahle,LAU Medical Center,Gastroenterologist,1187.31,4.0,33.852398,35.906985
+Layla Fares,+961 78 367 490,layla.fares128@example.com,"98 Verdun St, Jounieh",Jounieh,Valley Medical Zahle,Gastroenterologist,388.67,4.3,33.990516,35.612713
+Jad Helou,+961 77 974 331,jad.helou129@example.com,"236 Gouraud St, Beirut",Beirut,St. George Hospital,Dentist,1964.67,3.6,33.881594,35.493606
+Nour Azar,+961 77 105 669,nour.azar130@example.com,"605 Hamra St, Beirut",Beirut,AUBMC Clinic,Cardiologist,638.78,3.9,33.908269,35.51185
+Omar Haddad,+961 81 904 814,omar.haddad131@example.com,"288 Jal El Dib Hwy, Tyre",Tyre,AUBMC Clinic,Urologist,881.16,4.3,33.259111,35.194744
+Mira Najjar,+961 76 592 985,mira.najjar132@example.com,"99 Mar Elias St, Beirut",Beirut,Mount Lebanon Clinic,Family Physician,1424.92,3.9,33.904154,35.496219
+Khaled Khoury,+961 74 985 668,khaled.khoury133@example.com,"979 Bliss St, Beirut",Beirut,Byblos Health Center,Dentist,1572.38,4.9,33.892256,35.496199
+Tarek Azar,+961 77 227 472,tarek.azar134@example.com,"493 Gouraud St, Baalbek",Baalbek,Beirut General Hospital,Urologist,962.44,3.7,34.0207,36.211923
+Nadia Sleiman,+961 78 134 553,nadia.sleiman135@example.com,"120 Furn El Chebbak Rd, Baalbek",Baalbek,Mount Lebanon Clinic,Cardiologist,256.85,4.5,34.000064,36.223855
+Rita Karam,+961 81 264 123,rita.karam136@example.com,"720 Emile Lahoud Blvd, Baalbek",Baalbek,Mount Lebanon Clinic,Gastroenterologist,1727.68,4.0,34.013116,36.2298
+Walid Fares,+961 70 564 493,walid.fares137@example.com,"265 Jal El Dib Hwy, Baalbek",Baalbek,South Coast Medical,Endocrinologist,1906.47,3.3,34.002799,36.211521
+Aisha Choueiri,+961 75 553 214,aisha.choueiri138@example.com,"953 Jal El Dib Hwy, Baalbek",Baalbek,Mount Lebanon Clinic,General Surgeon,84.83,3.3,34.016205,36.229054
+Yara Saleh,+961 71 786 155,yara.saleh139@example.com,"488 Sursock St, Zahle",Zahle,North Care Hospital,Orthopedic Surgeon,927.31,4.2,33.834933,35.912982
+Omar Sleiman,+961 77 638 712,omar.sleiman140@example.com,"453 Pasteur St, Byblos",Byblos,Beirut General Hospital,Endocrinologist,1097.78,3.6,34.115348,35.633456
+Tarek Ayoub,+961 74 970 271,tarek.ayoub141@example.com,"557 Bliss St, Sidon",Sidon,South Coast Medical,Dermatologist,467.68,4.4,33.567298,35.357408
+Omar Sabbagh,+961 70 712 614,omar.sabbagh142@example.com,"32 Sursock St, Tripoli",Tripoli,Coastal Med Tyre,Gynecologist,1023.07,3.0,34.432824,35.852933
+Rita Habib,+961 79 853 945,rita.habib143@example.com,"666 Verdun St, Jounieh",Jounieh,AUBMC Clinic,Family Physician,791.22,3.2,33.981648,35.616918
+Maya Iskandar,+961 71 175 823,maya.iskandar144@example.com,"971 Pasteur St, Beirut",Beirut,St. George Hospital,Gastroenterologist,1089.73,4.4,33.891842,35.515648
+Joe Habib,+961 77 170 735,joe.habib145@example.com,"997 Jal El Dib Hwy, Tyre",Tyre,St. George Hospital,General Surgeon,1621.51,3.7,33.259454,35.184343
+Ralph Haddad,+961 76 492 703,ralph.haddad146@example.com,"930 Bliss St, Sidon",Sidon,Mount Lebanon Clinic,Neurologist,837.58,4.6,33.556317,35.356979
+Hadi Barakat,+961 76 936 622,hadi.barakat147@example.com,"617 Main St, Sidon",Sidon,North Care Hospital,General Surgeon,63.41,3.2,33.572249,35.368212
+Fadi Iskandar,+961 75 727 979,fadi.iskandar148@example.com,"858 Furn El Chebbak Rd, Tyre",Tyre,Mount Lebanon Clinic,Pediatrician,565.71,4.5,33.271157,35.182393
+Hadi Habib,+961 80 280 394,hadi.habib149@example.com,"801 Pasteur St, Zahle",Zahle,LAU Medical Center,Endocrinologist,1453.42,4.2,33.846932,35.902889
+Lina Saad,+961 71 892 782,lina.saad150@example.com,"160 Verdun St, Jounieh",Jounieh,Valley Medical Zahle,Ophthalmologist,1589.0,4.7,33.984466,35.609204
+Hadi Habib,+961 73 574 868,hadi.habib151@example.com,"836 Hamra St, Baalbek",Baalbek,St. George Hospital,Family Physician,1251.75,4.5,34.012459,36.203249
+Mona Fares,+961 71 552 324,mona.fares152@example.com,"528 Verdun St, Zahle",Zahle,LAU Medical Center,Endocrinologist,367.06,3.8,33.84998,35.911029
+Hala Najjar,+961 80 319 110,hala.najjar153@example.com,"926 Emile Lahoud Blvd, Beirut",Beirut,LAU Medical Center,Urologist,1749.07,4.2,33.894964,35.49663
+Aisha Farhat,+961 71 411 654,aisha.farhat154@example.com,"643 Furn El Chebbak Rd, Sidon",Sidon,St. George Hospital,Pediatrician,1640.12,4.4,33.567976,35.367481
+Khaled Nehme,+961 78 249 593,khaled.nehme155@example.com,"755 Hamra St, Beirut",Beirut,Mount Lebanon Clinic,Ophthalmologist,1771.71,3.4,33.895883,35.500487
+Walid Obeid,+961 80 544 317,walid.obeid156@example.com,"816 Emile Lahoud Blvd, Zahle",Zahle,Mount Lebanon Clinic,ENT Specialist,1532.52,3.5,33.841408,35.903274
+Mira Nassar,+961 80 164 530,mira.nassar157@example.com,"847 Hamra St, Byblos",Byblos,St. George Hospital,Orthopedic Surgeon,666.14,4.3,34.132722,35.638257
+Maya Ayoub,+961 71 329 357,maya.ayoub158@example.com,"410 Bliss St, Zahle",Zahle,North Care Hospital,Psychiatrist,168.53,3.9,33.832709,35.892403
+Jad Sabbagh,+961 79 233 848,jad.sabbagh159@example.com,"189 Hamra St, Batroun",Batroun,LAU Medical Center,Ophthalmologist,233.73,4.9,34.261584,35.656926
+Fadi Masri,+961 70 635 433,fadi.masri160@example.com,"412 Jal El Dib Hwy, Baalbek",Baalbek,Beirut General Hospital,Pediatrician,281.88,3.7,33.991092,36.21884
+Layla Choueiri,+961 79 388 816,layla.choueiri161@example.com,"76 Mar Elias St, Sidon",Sidon,Beirut General Hospital,General Surgeon,792.92,3.3,33.560536,35.365394
+Rami Choueiri,+961 81 964 636,rami.choueiri162@example.com,"861 Main St, Batroun",Batroun,AUBMC Clinic,Cardiologist,411.08,4.0,34.250398,35.667116
+Khaled Haddad,+961 70 766 627,khaled.haddad163@example.com,"551 Mar Elias St, Baabda",Baabda,St. George Hospital,Cardiologist,560.36,3.6,33.825043,35.543418
+Rana Khoury,+961 76 472 623,rana.khoury164@example.com,"768 Abdel Aziz St, Batroun",Batroun,Byblos Health Center,Endocrinologist,1927.55,3.5,34.252883,35.64568
+Hussein Atallah,+961 77 898 393,hussein.atallah165@example.com,"313 Emile Lahoud Blvd, Sidon",Sidon,South Coast Medical,Urologist,962.35,4.6,33.569343,35.373296
+Hussein Nehme,+961 80 617 830,hussein.nehme166@example.com,"856 Verdun St, Sidon",Sidon,Valley Medical Zahle,Dentist,942.5,3.0,33.569439,35.361265
+Layla Nehme,+961 78 627 889,layla.nehme167@example.com,"627 Main St, Baabda",Baabda,Mount Lebanon Clinic,Psychiatrist,1246.38,3.2,33.846593,35.538902
+Karim Atallah,+961 78 403 404,karim.atallah168@example.com,"904 Jal El Dib Hwy, Tripoli",Tripoli,South Coast Medical,Urologist,369.83,4.3,34.447118,35.852243
+Sara Kamal,+961 71 312 933,sara.kamal169@example.com,"656 Emile Lahoud Blvd, Baalbek",Baalbek,Mount Lebanon Clinic,Gynecologist,1142.71,4.8,34.000125,36.226772
+Omar Khoury,+961 79 519 405,omar.khoury170@example.com,"263 Verdun St, Jounieh",Jounieh,Valley Medical Zahle,Urologist,1002.15,4.6,33.982503,35.629968
+Layla Sleiman,+961 71 147 873,layla.sleiman171@example.com,"350 Sursock St, Baabda",Baabda,AUBMC Clinic,Psychiatrist,543.76,4.1,33.840222,35.537232
+Nour Masri,+961 70 723 614,nour.masri172@example.com,"942 Furn El Chebbak Rd, Byblos",Byblos,Beirut General Hospital,Orthopedic Surgeon,1733.53,3.3,34.123921,35.636491
+Khaled Nehme,+961 71 903 318,khaled.nehme173@example.com,"13 Sursock St, Batroun",Batroun,LAU Medical Center,Neurologist,177.75,3.4,34.266496,35.649146
+Ziad Nassar,+961 77 681 647,ziad.nassar174@example.com,"858 Jal El Dib Hwy, Baabda",Baabda,Coastal Med Tyre,Endocrinologist,452.97,3.9,33.83053,35.551433
+Samir Nassar,+961 75 653 913,samir.nassar175@example.com,"187 Sursock St, Sidon",Sidon,South Coast Medical,Neurologist,1791.39,4.6,33.558633,35.377342
+Hussein Atallah,+961 75 408 699,hussein.atallah176@example.com,"521 Verdun St, Baalbek",Baalbek,North Care Hospital,Ophthalmologist,476.91,3.8,34.017429,36.220724
+Rana Masri,+961 79 121 445,rana.masri177@example.com,"298 Verdun St, Tripoli",Tripoli,Coastal Med Tyre,Dentist,1000.48,3.8,34.442879,35.837389
+Khaled Bitar,+961 73 325 288,khaled.bitar178@example.com,"851 Sursock St, Baabda",Baabda,South Coast Medical,Gynecologist,1121.07,3.9,33.821961,35.536361
+Nabeel Farhat,+961 79 927 884,nabeel.farhat179@example.com,"277 Emile Lahoud Blvd, Batroun",Batroun,St. George Hospital,Gynecologist,1568.62,3.2,34.240226,35.6514
+Layla Fakhry,+961 79 378 460,layla.fakhry180@example.com,"818 Pasteur St, Sidon",Sidon,Mount Lebanon Clinic,Neurologist,195.72,3.4,33.546248,35.381933
+Hala Saliba,+961 78 710 841,hala.saliba181@example.com,"853 Sursock St, Batroun",Batroun,South Coast Medical,Orthopedic Surgeon,1146.61,4.2,34.262547,35.643367
+Nabeel Saliba,+961 71 741 712,nabeel.saliba182@example.com,"703 Mar Elias St, Baalbek",Baalbek,Beirut General Hospital,General Surgeon,311.46,3.6,34.015973,36.211671
+Dina Saleh,+961 72 476 337,dina.saleh183@example.com,"954 Foch St, Tyre",Tyre,South Coast Medical,Pediatrician,1434.32,4.7,33.259316,35.195719
+Tarek Saleh,+961 76 879 785,tarek.saleh184@example.com,"629 Hamra St, Sidon",Sidon,Beirut General Hospital,Orthopedic Surgeon,1211.68,4.0,33.549584,35.364984
+Aisha Barakat,+961 71 397 289,aisha.barakat185@example.com,"741 Furn El Chebbak Rd, Batroun",Batroun,Mount Lebanon Clinic,Ophthalmologist,1866.88,4.9,34.265066,35.672924
+Yara Saliba,+961 81 231 996,yara.saliba186@example.com,"797 Emile Lahoud Blvd, Tyre",Tyre,Beirut General Hospital,Dentist,1684.9,4.6,33.26465,35.192773
+Nour Sleiman,+961 72 168 554,nour.sleiman187@example.com,"301 Emile Lahoud Blvd, Zahle",Zahle,Mount Lebanon Clinic,Dermatologist,1646.15,4.7,33.843137,35.906163
+Rita Saliba,+961 78 633 728,rita.saliba188@example.com,"319 Main St, Beirut",Beirut,South Coast Medical,ENT Specialist,1672.85,4.0,33.880822,35.502538
+Mona Iskandar,+961 77 643 861,mona.iskandar189@example.com,"604 Foch St, Baabda",Baabda,North Care Hospital,Psychiatrist,1977.19,3.5,33.835564,35.533601
+Yara Najjar,+961 77 276 271,yara.najjar190@example.com,"104 Bliss St, Zahle",Zahle,Coastal Med Tyre,Endocrinologist,1359.85,4.6,33.854555,35.900343
+Nour Sleiman,+961 78 925 464,nour.sleiman191@example.com,"515 Emile Lahoud Blvd, Baabda",Baabda,Coastal Med Tyre,Gastroenterologist,1202.5,3.7,33.833427,35.530839
+Joe Barakat,+961 74 356 358,joe.barakat192@example.com,"312 Pasteur St, Beirut",Beirut,LAU Medical Center,Cardiologist,136.02,4.6,33.899021,35.509471
+Ralph Choueiri,+961 74 589 951,ralph.choueiri193@example.com,"185 Mar Elias St, Sidon",Sidon,Valley Medical Zahle,Dermatologist,1273.68,4.3,33.558437,35.384407
+Jad Nassar,+961 72 293 980,jad.nassar194@example.com,"88 Verdun St, Tripoli",Tripoli,St. George Hospital,Pediatrician,1181.04,4.5,34.429163,35.836863
+Sara Masri,+961 70 909 686,sara.masri195@example.com,"658 Bliss St, Byblos",Byblos,Valley Medical Zahle,Pediatrician,1341.23,3.5,34.130768,35.660242
+Joe Ayoub,+961 77 440 412,joe.ayoub196@example.com,"495 Emile Lahoud Blvd, Byblos",Byblos,North Care Hospital,Dermatologist,1133.92,4.3,34.133201,35.661273
+Hala Obeid,+961 74 356 330,hala.obeid197@example.com,"735 Bliss St, Tripoli",Tripoli,Beirut General Hospital,Gastroenterologist,1797.03,4.1,34.422248,35.853038
+Nour Fares,+961 76 424 819,nour.fares198@example.com,"848 Pasteur St, Batroun",Batroun,AUBMC Clinic,Urologist,1975.73,4.8,34.254497,35.664027
+Aisha Fares,+961 75 306 427,aisha.fares199@example.com,"291 Hamra St, Baabda",Baabda,LAU Medical Center,Pediatrician,937.87,4.2,33.82013,35.537842
+Nadia Habib,+961 81 848 765,nadia.habib200@example.com,"419 Hamra St, Baabda",Baabda,St. George Hospital,Neurologist,683.4,3.7,33.82,35.553344
+Fadi Farhat,+961 74 282 245,fadi.farhat201@example.com,"671 Gouraud St, Batroun",Batroun,Mount Lebanon Clinic,Ophthalmologist,483.28,4.1,34.269049,35.64957
+Samir Barakat,+961 78 759 999,samir.barakat202@example.com,"331 Mar Elias St, Beirut",Beirut,Coastal Med Tyre,Neurologist,1548.35,3.1,33.898869,35.49913
+Aisha Azar,+961 78 174 688,aisha.azar203@example.com,"257 Abdel Aziz St, Baalbek",Baalbek,Coastal Med Tyre,Family Physician,96.35,3.3,33.9932,36.214042
+Ziad Sabbagh,+961 75 910 418,ziad.sabbagh204@example.com,"984 Emile Lahoud Blvd, Sidon",Sidon,LAU Medical Center,Dentist,1100.27,3.7,33.54751,35.386292
+Rana Nassar,+961 73 243 406,rana.nassar205@example.com,"603 Bliss St, Beirut",Beirut,North Care Hospital,Neurologist,237.56,3.8,33.890741,35.511431
+Aisha Sabbagh,+961 72 331 606,aisha.sabbagh206@example.com,"938 Jal El Dib Hwy, Batroun",Batroun,Coastal Med Tyre,Cardiologist,466.52,4.5,34.256849,35.65227
+Nour Abi Chahine,+961 73 934 994,nour.abi chahine207@example.com,"422 Mar Elias St, Beirut",Beirut,Mount Lebanon Clinic,Gynecologist,1948.77,4.9,33.901146,35.507042
+Sara Makhlouf,+961 80 727 281,sara.makhlouf208@example.com,"705 Pasteur St, Zahle",Zahle,LAU Medical Center,General Surgeon,854.73,3.1,33.841937,35.89665
+Sara Fakhry,+961 70 976 566,sara.fakhry209@example.com,"996 Main St, Baabda",Baabda,South Coast Medical,Dentist,568.67,4.4,33.834135,35.533445
+Rami Abi Chahine,+961 78 395 904,rami.abi chahine210@example.com,"866 Foch St, Tripoli",Tripoli,Mount Lebanon Clinic,Urologist,875.84,3.2,34.449862,35.843052
+Ralph Saliba,+961 72 971 431,ralph.saliba211@example.com,"308 Abdel Aziz St, Sidon",Sidon,Coastal Med Tyre,Gastroenterologist,466.23,4.7,33.542784,35.359668
+Rita Ayoub,+961 81 959 975,rita.ayoub212@example.com,"318 Verdun St, Byblos",Byblos,Beirut General Hospital,Gastroenterologist,164.23,4.8,34.134839,35.660475
+Mona Atallah,+961 79 138 378,mona.atallah213@example.com,"306 Pasteur St, Baalbek",Baalbek,St. George Hospital,Cardiologist,428.94,5.0,34.007166,36.226721
+Lina Saleh,+961 75 233 948,lina.saleh214@example.com,"992 Pasteur St, Batroun",Batroun,LAU Medical Center,ENT Specialist,1097.83,4.0,34.254835,35.649745
+Nabeel Abi Chahine,+961 73 297 326,nabeel.abi chahine215@example.com,"926 Foch St, Baalbek",Baalbek,Coastal Med Tyre,Gastroenterologist,604.75,3.3,34.011098,36.225183
+Sara Makhlouf,+961 73 109 833,sara.makhlouf216@example.com,"215 Mar Elias St, Byblos",Byblos,St. George Hospital,Gynecologist,101.4,4.2,34.107733,35.646661
+Mona Nassar,+961 78 416 178,mona.nassar217@example.com,"561 Emile Lahoud Blvd, Sidon",Sidon,AUBMC Clinic,Endocrinologist,1701.21,4.7,33.56452,35.371625
+Lina Nehme,+961 71 984 681,lina.nehme218@example.com,"854 Mar Elias St, Sidon",Sidon,St. George Hospital,Neurologist,1192.96,4.0,33.544907,35.377005
+Fadi Bitar,+961 70 220 512,fadi.bitar219@example.com,"146 Abdel Aziz St, Baalbek",Baalbek,North Care Hospital,Orthopedic Surgeon,1882.35,3.9,34.007674,36.210879
+Ralph Abi Chahine,+961 78 199 204,ralph.abi chahine220@example.com,"472 Sursock St, Batroun",Batroun,Coastal Med Tyre,ENT Specialist,537.96,4.6,34.26452,35.667583
+Hala Saad,+961 76 356 898,hala.saad221@example.com,"399 Foch St, Baabda",Baabda,Beirut General Hospital,Pediatrician,1366.82,4.2,33.84588,35.555355
+Lina Najjar,+961 80 365 898,lina.najjar222@example.com,"222 Hamra St, Baabda",Baabda,North Care Hospital,General Surgeon,665.64,4.9,33.82188,35.529241
+Karim Karam,+961 70 773 286,karim.karam223@example.com,"52 Sursock St, Sidon",Sidon,Beirut General Hospital,Orthopedic Surgeon,1229.63,4.8,33.552863,35.379414
+Rami Nassar,+961 75 992 740,rami.nassar224@example.com,"515 Gouraud St, Tripoli",Tripoli,Mount Lebanon Clinic,Orthopedic Surgeon,1235.29,3.1,34.429752,35.835163
+Nabeel Saleh,+961 71 830 848,nabeel.saleh225@example.com,"100 Sursock St, Beirut",Beirut,North Care Hospital,Neurologist,355.51,3.5,33.885962,35.499796
+Jad Ayoub,+961 80 761 806,jad.ayoub226@example.com,"669 Abdel Aziz St, Tyre",Tyre,South Coast Medical,Ophthalmologist,464.13,4.9,33.272662,35.203132
+Hadi Fakhry,+961 72 469 505,hadi.fakhry227@example.com,"998 Foch St, Zahle",Zahle,Coastal Med Tyre,Ophthalmologist,1940.31,4.9,33.840307,35.900859
+Jad Makhlouf,+961 79 800 192,jad.makhlouf228@example.com,"618 Foch St, Beirut",Beirut,LAU Medical Center,Pediatrician,798.94,4.2,33.900274,35.499972
+Sara Iskandar,+961 72 140 312,sara.iskandar229@example.com,"268 Emile Lahoud Blvd, Jounieh",Jounieh,Coastal Med Tyre,Psychiatrist,1449.88,3.3,33.983343,35.622929
+Elie Masri,+961 79 496 215,elie.masri230@example.com,"440 Main St, Tyre",Tyre,Beirut General Hospital,Gynecologist,1237.29,3.1,33.269285,35.207587
+Maya Ghosn,+961 76 113 175,maya.ghosn231@example.com,"317 Sursock St, Zahle",Zahle,South Coast Medical,Cardiologist,1724.29,4.9,33.852183,35.890415
+Tarek Habib,+961 71 959 511,tarek.habib232@example.com,"499 Foch St, Jounieh",Jounieh,Mount Lebanon Clinic,Gastroenterologist,300.45,4.8,33.977677,35.6096
+Dina Ghosn,+961 81 205 621,dina.ghosn233@example.com,"86 Abdel Aziz St, Sidon",Sidon,Beirut General Hospital,Pediatrician,1215.94,4.6,33.546133,35.358007
+Dina Azar,+961 74 839 991,dina.azar234@example.com,"449 Gouraud St, Byblos",Byblos,South Coast Medical,Gynecologist,1239.06,4.7,34.128051,35.657248
+Fadi Helou,+961 78 724 152,fadi.helou235@example.com,"526 Sursock St, Batroun",Batroun,Byblos Health Center,Neurologist,613.12,4.6,34.26225,35.661123
+Nadia Sabbagh,+961 78 887 929,nadia.sabbagh236@example.com,"559 Emile Lahoud Blvd, Jounieh",Jounieh,St. George Hospital,Family Physician,1424.12,4.2,33.980756,35.627104
+Hadi Bitar,+961 70 170 153,hadi.bitar237@example.com,"981 Pasteur St, Baalbek",Baalbek,Beirut General Hospital,Endocrinologist,584.25,4.8,33.990859,36.205747
+Ziad Makhlouf,+961 74 996 275,ziad.makhlouf238@example.com,"403 Main St, Jounieh",Jounieh,South Coast Medical,Dermatologist,1294.27,3.3,33.97149,35.621978
+Lina Ayoub,+961 79 152 286,lina.ayoub239@example.com,"181 Foch St, Baabda",Baabda,South Coast Medical,Gastroenterologist,561.64,3.7,33.828996,35.534716
+Mira Makhlouf,+961 80 916 915,mira.makhlouf240@example.com,"304 Jal El Dib Hwy, Byblos",Byblos,North Care Hospital,Pediatrician,1241.66,3.7,34.125379,35.642074
+Nour Bitar,+961 73 412 692,nour.bitar241@example.com,"654 Verdun St, Tripoli",Tripoli,Coastal Med Tyre,Orthopedic Surgeon,361.02,4.6,34.441172,35.848556
+Karim Nassar,+961 75 132 917,karim.nassar242@example.com,"859 Foch St, Sidon",Sidon,Byblos Health Center,Gynecologist,1019.42,4.6,33.564311,35.363149
+Rana Habib,+961 76 341 642,rana.habib243@example.com,"423 Hamra St, Zahle",Zahle,St. George Hospital,Cardiologist,1174.09,3.2,33.858806,35.896453
+Omar Abi Chahine,+961 78 597 987,omar.abi chahine244@example.com,"20 Furn El Chebbak Rd, Tyre",Tyre,St. George Hospital,Dermatologist,1557.88,3.4,33.285106,35.183082
+Dina Ghosn,+961 78 593 935,dina.ghosn245@example.com,"624 Sursock St, Baalbek",Baalbek,North Care Hospital,Dentist,1180.18,3.8,34.00963,36.212919
+Mira Farhat,+961 80 618 899,mira.farhat246@example.com,"778 Foch St, Sidon",Sidon,AUBMC Clinic,Cardiologist,1026.74,3.3,33.550908,35.361843
+Tarek Abi Chahine,+961 72 748 671,tarek.abi chahine247@example.com,"247 Jal El Dib Hwy, Tripoli",Tripoli,North Care Hospital,Dentist,1820.48,4.5,34.449031,35.843821
+Mira Nehme,+961 79 987 287,mira.nehme248@example.com,"356 Foch St, Zahle",Zahle,Valley Medical Zahle,Gynecologist,1607.29,4.2,33.843932,35.908633
+Rita Khoury,+961 74 338 868,rita.khoury249@example.com,"868 Main St, Zahle",Zahle,St. George Hospital,Endocrinologist,1773.46,3.2,33.838634,35.89841
+Mira Fares,+961 72 617 142,mira.fares250@example.com,"668 Main St, Batroun",Batroun,AUBMC Clinic,Cardiologist,200.73,4.7,34.266057,35.669101
+Aisha Obeid,+961 74 522 360,aisha.obeid251@example.com,"131 Furn El Chebbak Rd, Byblos",Byblos,Valley Medical Zahle,Dermatologist,1503.08,3.6,34.131299,35.649034
+Mira Chamoun,+961 78 340 475,mira.chamoun252@example.com,"516 Sursock St, Jounieh",Jounieh,South Coast Medical,Cardiologist,715.31,3.7,33.96593,35.623096
+Tarek Saleh,+961 70 939 841,tarek.saleh253@example.com,"4 Emile Lahoud Blvd, Batroun",Batroun,St. George Hospital,Neurologist,1883.76,4.9,34.249546,35.655914
+Omar Atallah,+961 70 568 996,omar.atallah254@example.com,"634 Hamra St, Tyre",Tyre,Beirut General Hospital,Dermatologist,690.57,3.1,33.279943,35.198461
+Joe Ghosn,+961 73 903 752,joe.ghosn255@example.com,"691 Foch St, Tripoli",Tripoli,Beirut General Hospital,Ophthalmologist,1731.77,3.8,34.443324,35.839918
+Karim Nassar,+961 81 301 472,karim.nassar256@example.com,"651 Jal El Dib Hwy, Tyre",Tyre,Mount Lebanon Clinic,Dentist,1502.99,4.6,33.283914,35.189774
+Omar Sabbagh,+961 74 142 471,omar.sabbagh257@example.com,"744 Jal El Dib Hwy, Sidon",Sidon,Mount Lebanon Clinic,Dermatologist,495.32,3.2,33.558382,35.377766
+Lina Khoury,+961 76 803 465,lina.khoury258@example.com,"862 Sursock St, Tyre",Tyre,Beirut General Hospital,Psychiatrist,1499.91,4.7,33.260073,35.184932
+Rami Helou,+961 77 222 408,rami.helou259@example.com,"567 Mar Elias St, Sidon",Sidon,AUBMC Clinic,Psychiatrist,932.29,3.7,33.561748,35.366155
+Maya Ghosn,+961 70 485 244,maya.ghosn260@example.com,"231 Mar Elias St, Baabda",Baabda,South Coast Medical,Psychiatrist,1373.09,3.1,33.844077,35.558919
+Omar Azar,+961 70 822 154,omar.azar261@example.com,"166 Gouraud St, Tripoli",Tripoli,South Coast Medical,Family Physician,1029.25,4.2,34.44015,35.862899
+Maya Abi Chahine,+961 77 365 979,maya.abi chahine262@example.com,"90 Bliss St, Tripoli",Tripoli,AUBMC Clinic,General Surgeon,1834.08,4.6,34.424576,35.846893
+Khaled Iskandar,+961 73 316 164,khaled.iskandar263@example.com,"116 Emile Lahoud Blvd, Baabda",Baabda,South Coast Medical,Gastroenterologist,112.05,3.3,33.820654,35.542918
+Walid Habib,+961 73 682 647,walid.habib264@example.com,"523 Emile Lahoud Blvd, Baalbek",Baalbek,St. George Hospital,Pediatrician,690.44,4.4,34.017566,36.212426
+Hussein Saad,+961 71 873 250,hussein.saad265@example.com,"685 Abdel Aziz St, Batroun",Batroun,Beirut General Hospital,Neurologist,1537.72,3.2,34.242866,35.65226
+Ziad Sabbagh,+961 77 517 497,ziad.sabbagh266@example.com,"825 Pasteur St, Zahle",Zahle,Byblos Health Center,Endocrinologist,1719.87,4.0,33.857263,35.897808
+Joe Helou,+961 79 894 429,joe.helou267@example.com,"336 Foch St, Byblos",Byblos,South Coast Medical,Gastroenterologist,1883.06,4.7,34.124575,35.64504
+Ziad Najjar,+961 78 126 167,ziad.najjar268@example.com,"128 Jal El Dib Hwy, Baalbek",Baalbek,LAU Medical Center,Family Physician,597.46,4.7,33.99293,36.204311
+Nabeel Helou,+961 72 807 333,nabeel.helou269@example.com,"662 Verdun St, Baabda",Baabda,Mount Lebanon Clinic,Orthopedic Surgeon,751.93,3.1,33.82243,35.550651
+Fadi Bitar,+961 74 709 562,fadi.bitar270@example.com,"289 Verdun St, Zahle",Zahle,Beirut General Hospital,Gastroenterologist,855.45,4.0,33.84088,35.893573
+Hadi Bitar,+961 72 181 872,hadi.bitar271@example.com,"297 Mar Elias St, Jounieh",Jounieh,LAU Medical Center,Dentist,398.3,3.6,33.990926,35.614293
+Nabeel Makhlouf,+961 78 988 696,nabeel.makhlouf272@example.com,"720 Jal El Dib Hwy, Baabda",Baabda,South Coast Medical,Dentist,263.24,4.6,33.823665,35.54153
+Sara Makhlouf,+961 75 838 192,sara.makhlouf273@example.com,"63 Furn El Chebbak Rd, Tripoli",Tripoli,North Care Hospital,General Surgeon,1588.52,3.5,34.438971,35.849092
+Hala Choueiri,+961 80 976 452,hala.choueiri274@example.com,"24 Abdel Aziz St, Jounieh",Jounieh,North Care Hospital,ENT Specialist,514.97,3.5,33.971162,35.629091
+Mira Chamoun,+961 75 125 403,mira.chamoun275@example.com,"24 Furn El Chebbak Rd, Batroun",Batroun,Valley Medical Zahle,Ophthalmologist,87.95,4.9,34.248213,35.656198
+Hussein Masri,+961 76 392 120,hussein.masri276@example.com,"667 Sursock St, Tyre",Tyre,St. George Hospital,Dermatologist,280.81,4.8,33.271301,35.191604
+Maya Obeid,+961 70 255 920,maya.obeid277@example.com,"228 Verdun St, Sidon",Sidon,LAU Medical Center,Orthopedic Surgeon,152.57,4.7,33.569274,35.357246
+Yara Iskandar,+961 72 403 222,yara.iskandar278@example.com,"559 Jal El Dib Hwy, Jounieh",Jounieh,North Care Hospital,Urologist,1286.07,3.9,33.987256,35.625099
+Dina Makhlouf,+961 81 706 290,dina.makhlouf279@example.com,"595 Mar Elias St, Beirut",Beirut,Coastal Med Tyre,Cardiologist,242.63,3.4,33.889451,35.510989
+Rana Kamal,+961 76 763 223,rana.kamal280@example.com,"852 Verdun St, Sidon",Sidon,Coastal Med Tyre,ENT Specialist,755.66,3.6,33.564061,35.377091
+Maya Masri,+961 74 360 684,maya.masri281@example.com,"730 Emile Lahoud Blvd, Tyre",Tyre,AUBMC Clinic,Dentist,1661.54,3.5,33.26002,35.184537
+Aisha Iskandar,+961 78 757 345,aisha.iskandar282@example.com,"53 Abdel Aziz St, Tripoli",Tripoli,LAU Medical Center,ENT Specialist,390.91,4.2,34.432757,35.837531
+Fadi Haddad,+961 81 745 453,fadi.haddad283@example.com,"109 Sursock St, Baabda",Baabda,St. George Hospital,General Surgeon,1219.22,4.4,33.820791,35.530107
+Sara Haddad,+961 79 192 736,sara.haddad284@example.com,"263 Sursock St, Baabda",Baabda,South Coast Medical,Dermatologist,673.16,4.5,33.845019,35.537425
+Hala Makhlouf,+961 74 463 613,hala.makhlouf285@example.com,"646 Jal El Dib Hwy, Baalbek",Baalbek,North Care Hospital,ENT Specialist,517.66,4.7,34.011425,36.224352
+Rita Abi Chahine,+961 74 177 648,rita.abi chahine286@example.com,"832 Mar Elias St, Baabda",Baabda,Coastal Med Tyre,ENT Specialist,1486.4,4.7,33.824557,35.548436
+Khaled Chamoun,+961 79 120 841,khaled.chamoun287@example.com,"701 Bliss St, Byblos",Byblos,Byblos Health Center,Family Physician,905.62,4.6,34.122244,35.65449
+Rana Masri,+961 76 632 821,rana.masri288@example.com,"633 Sursock St, Tyre",Tyre,North Care Hospital,Gastroenterologist,1653.26,4.9,33.26551,35.197136
+Nour Farhat,+961 74 614 774,nour.farhat289@example.com,"423 Jal El Dib Hwy, Batroun",Batroun,North Care Hospital,Gynecologist,1789.32,3.2,34.254362,35.647362
+Maya Saliba,+961 70 328 838,maya.saliba290@example.com,"404 Bliss St, Baalbek",Baalbek,Valley Medical Zahle,Pediatrician,689.7,4.6,34.00284,36.207149
+Rita Najjar,+961 77 159 805,rita.najjar291@example.com,"436 Hamra St, Sidon",Sidon,St. George Hospital,Urologist,916.48,4.5,33.555509,35.36172
+Elie Kamal,+961 74 494 106,elie.kamal292@example.com,"127 Gouraud St, Batroun",Batroun,Beirut General Hospital,Urologist,184.84,3.1,34.263795,35.654538
+Joe Barakat,+961 79 500 498,joe.barakat293@example.com,"259 Gouraud St, Beirut",Beirut,LAU Medical Center,Psychiatrist,1755.3,4.9,33.884079,35.494019
+Yara Karam,+961 76 713 736,yara.karam294@example.com,"494 Mar Elias St, Baabda",Baabda,Byblos Health Center,Ophthalmologist,1408.98,3.9,33.847703,35.53953
+Layla Saad,+961 72 931 830,layla.saad295@example.com,"882 Emile Lahoud Blvd, Tyre",Tyre,AUBMC Clinic,Gastroenterologist,453.48,3.7,33.274125,35.186414
+Ziad Makhlouf,+961 75 682 686,ziad.makhlouf296@example.com,"740 Main St, Batroun",Batroun,Valley Medical Zahle,Family Physician,507.8,3.5,34.24787,35.671487
+Mona Habib,+961 73 856 279,mona.habib297@example.com,"972 Pasteur St, Tyre",Tyre,Coastal Med Tyre,Pediatrician,1108.13,4.3,33.274229,35.181916
+Omar Haddad,+961 75 952 830,omar.haddad298@example.com,"38 Hamra St, Jounieh",Jounieh,Beirut General Hospital,Endocrinologist,1308.38,4.2,33.989886,35.626531
+Fadi Obeid,+961 70 592 898,fadi.obeid299@example.com,"480 Mar Elias St, Sidon",Sidon,St. George Hospital,Ophthalmologist,1819.68,3.2,33.558794,35.372852
+Hadi Haddad,+961 73 716 967,hadi.haddad300@example.com,"765 Sursock St, Byblos",Byblos,LAU Medical Center,Gastroenterologist,314.35,3.5,34.126276,35.66117
+Ziad Barakat,+961 71 229 138,ziad.barakat301@example.com,"708 Emile Lahoud Blvd, Zahle",Zahle,St. George Hospital,Pediatrician,1940.52,4.6,33.853514,35.912358
+Mona Makhlouf,+961 76 906 811,mona.makhlouf302@example.com,"798 Gouraud St, Byblos",Byblos,South Coast Medical,Psychiatrist,1128.44,4.0,34.128524,35.66161
+Layla Habib,+961 79 794 840,layla.habib303@example.com,"994 Verdun St, Tyre",Tyre,Coastal Med Tyre,Neurologist,1732.21,3.3,33.275601,35.195402
+Mona Farhat,+961 81 476 293,mona.farhat304@example.com,"365 Bliss St, Batroun",Batroun,Valley Medical Zahle,Dentist,420.01,3.9,34.268353,35.663148
+Layla Saad,+961 75 565 975,layla.saad305@example.com,"697 Gouraud St, Tyre",Tyre,North Care Hospital,Endocrinologist,1778.28,3.1,33.262959,35.190444
+Samir Nehme,+961 75 633 711,samir.nehme306@example.com,"105 Abdel Aziz St, Sidon",Sidon,North Care Hospital,Cardiologist,1040.06,4.1,33.560228,35.371841
+Hadi Iskandar,+961 70 620 957,hadi.iskandar307@example.com,"128 Main St, Jounieh",Jounieh,St. George Hospital,ENT Specialist,983.14,3.4,33.980827,35.613765
+Maya Chamoun,+961 74 380 852,maya.chamoun308@example.com,"63 Bliss St, Baalbek",Baalbek,LAU Medical Center,Psychiatrist,975.82,3.1,34.012173,36.232395
+Tarek Saleh,+961 70 404 499,tarek.saleh309@example.com,"424 Foch St, Batroun",Batroun,Valley Medical Zahle,Cardiologist,561.42,4.5,34.255519,35.669085
+Walid Habib,+961 75 999 359,walid.habib310@example.com,"869 Abdel Aziz St, Jounieh",Jounieh,Valley Medical Zahle,ENT Specialist,906.58,4.9,33.990322,35.608097
+Jad Abi Chahine,+961 75 811 208,jad.abi chahine311@example.com,"934 Hamra St, Jounieh",Jounieh,LAU Medical Center,Ophthalmologist,1021.62,4.1,33.970009,35.604688
+Rita Iskandar,+961 74 901 288,rita.iskandar312@example.com,"184 Pasteur St, Baabda",Baabda,Mount Lebanon Clinic,Ophthalmologist,1113.27,3.5,33.847218,35.541077
+Mona Masri,+961 77 489 766,mona.masri313@example.com,"62 Abdel Aziz St, Baabda",Baabda,Valley Medical Zahle,Neurologist,1848.61,3.6,33.834845,35.543741
+Ralph Karam,+961 71 923 619,ralph.karam314@example.com,"836 Bliss St, Byblos",Byblos,North Care Hospital,Gastroenterologist,436.58,4.6,34.125734,35.635354
+Nabeel Atallah,+961 76 263 235,nabeel.atallah315@example.com,"211 Verdun St, Sidon",Sidon,AUBMC Clinic,Dentist,762.44,4.6,33.568235,35.385532
+Hussein Nehme,+961 76 545 284,hussein.nehme316@example.com,"193 Sursock St, Sidon",Sidon,Valley Medical Zahle,Neurologist,534.84,3.9,33.561086,35.369595
+Tarek Choueiri,+961 75 437 970,tarek.choueiri317@example.com,"622 Gouraud St, Batroun",Batroun,LAU Medical Center,General Surgeon,1655.24,4.0,34.256162,35.652779
+Karim Nassar,+961 71 542 357,karim.nassar318@example.com,"456 Hamra St, Baalbek",Baalbek,St. George Hospital,Dermatologist,1495.77,3.3,34.019581,36.223457
+Fadi Habib,+961 81 657 131,fadi.habib319@example.com,"179 Emile Lahoud Blvd, Tyre",Tyre,Beirut General Hospital,General Surgeon,1249.08,3.6,33.264259,35.194188
+Rana Najjar,+961 75 954 761,rana.najjar320@example.com,"265 Foch St, Baalbek",Baalbek,Mount Lebanon Clinic,Family Physician,342.8,3.8,34.002061,36.231401
+Rana Haddad,+961 70 530 310,rana.haddad321@example.com,"246 Mar Elias St, Zahle",Zahle,Beirut General Hospital,Psychiatrist,1435.45,4.0,33.840283,35.91026
+Ralph Kamal,+961 72 145 832,ralph.kamal322@example.com,"570 Abdel Aziz St, Zahle",Zahle,Valley Medical Zahle,Family Physician,338.31,3.4,33.844234,35.906032
+Rami Iskandar,+961 78 660 202,rami.iskandar323@example.com,"101 Pasteur St, Baabda",Baabda,LAU Medical Center,Orthopedic Surgeon,592.11,3.3,33.826454,35.533621
+Jad Obeid,+961 75 505 544,jad.obeid324@example.com,"379 Jal El Dib Hwy, Tyre",Tyre,South Coast Medical,Gynecologist,130.74,3.9,33.278343,35.204511
+Ralph Ayoub,+961 79 124 583,ralph.ayoub325@example.com,"232 Mar Elias St, Beirut",Beirut,South Coast Medical,Dentist,980.21,3.5,33.894631,35.487711
+Hadi Kamal,+961 81 582 226,hadi.kamal326@example.com,"479 Jal El Dib Hwy, Tripoli",Tripoli,St. George Hospital,ENT Specialist,867.72,3.5,34.433262,35.844335
+Dina Ayoub,+961 72 395 696,dina.ayoub327@example.com,"886 Bliss St, Batroun",Batroun,Beirut General Hospital,ENT Specialist,374.49,4.0,34.25918,35.64934
+Ziad Kamal,+961 81 522 595,ziad.kamal328@example.com,"81 Hamra St, Beirut",Beirut,St. George Hospital,Gynecologist,1492.56,3.9,33.896348,35.50778
+Joe Ghosn,+961 78 553 258,joe.ghosn329@example.com,"578 Main St, Baabda",Baabda,St. George Hospital,Ophthalmologist,1692.62,4.3,33.846294,35.55731
+Yara Kamal,+961 79 252 397,yara.kamal330@example.com,"227 Hamra St, Batroun",Batroun,Beirut General Hospital,ENT Specialist,1863.0,4.0,34.254874,35.670858
+Hadi Helou,+961 79 309 479,hadi.helou331@example.com,"464 Gouraud St, Tyre",Tyre,LAU Medical Center,ENT Specialist,1035.56,4.0,33.284912,35.192059
+Karim Iskandar,+961 77 970 749,karim.iskandar332@example.com,"143 Emile Lahoud Blvd, Batroun",Batroun,AUBMC Clinic,ENT Specialist,1984.56,3.5,34.26613,35.666628
+Layla Abi Chahine,+961 80 475 654,layla.abi chahine333@example.com,"182 Emile Lahoud Blvd, Byblos",Byblos,St. George Hospital,Urologist,1287.75,3.3,34.122068,35.656959
+Walid Obeid,+961 77 984 220,walid.obeid334@example.com,"715 Hamra St, Zahle",Zahle,Valley Medical Zahle,Neurologist,1292.37,3.7,33.841327,35.890166
+Joe Habib,+961 75 312 327,joe.habib335@example.com,"97 Furn El Chebbak Rd, Beirut",Beirut,Beirut General Hospital,Family Physician,1596.14,3.3,33.896588,35.498746
+Fadi Helou,+961 72 789 671,fadi.helou336@example.com,"775 Verdun St, Tyre",Tyre,St. George Hospital,Endocrinologist,1910.0,4.9,33.283534,35.190907
+Joe Atallah,+961 81 276 480,joe.atallah337@example.com,"670 Gouraud St, Zahle",Zahle,Byblos Health Center,Psychiatrist,116.74,4.4,33.859313,35.890992
+Mira Nehme,+961 77 118 346,mira.nehme338@example.com,"851 Emile Lahoud Blvd, Tripoli",Tripoli,South Coast Medical,Pediatrician,891.29,4.2,34.430613,35.849536
+Fadi Kamal,+961 81 935 462,fadi.kamal339@example.com,"68 Abdel Aziz St, Byblos",Byblos,North Care Hospital,Dentist,1341.82,3.6,34.106913,35.64601
+Elie Bitar,+961 71 935 513,elie.bitar340@example.com,"170 Jal El Dib Hwy, Baalbek",Baalbek,LAU Medical Center,Neurologist,657.95,3.7,34.015744,36.224954
+Aisha Nassar,+961 73 331 248,aisha.nassar341@example.com,"193 Sursock St, Tripoli",Tripoli,North Care Hospital,Urologist,179.76,4.9,34.428586,35.853637
+Rana Masri,+961 75 560 809,rana.masri342@example.com,"253 Main St, Baabda",Baabda,Byblos Health Center,Family Physician,53.37,4.6,33.840791,35.542749
+Ralph Haddad,+961 76 746 674,ralph.haddad343@example.com,"909 Bliss St, Zahle",Zahle,Byblos Health Center,ENT Specialist,1060.71,4.4,33.853357,35.894341
+Sara Ayoub,+961 71 372 912,sara.ayoub344@example.com,"318 Bliss St, Baalbek",Baalbek,Valley Medical Zahle,Gynecologist,1023.03,4.9,34.009679,36.214277
+Nadia Saad,+961 72 970 775,nadia.saad345@example.com,"321 Pasteur St, Baabda",Baabda,Valley Medical Zahle,Psychiatrist,960.82,4.9,33.828593,35.537927
+Ralph Obeid,+961 71 451 686,ralph.obeid346@example.com,"777 Furn El Chebbak Rd, Byblos",Byblos,North Care Hospital,Neurologist,1934.78,4.7,34.132236,35.64793
+Hussein Chamoun,+961 78 265 974,hussein.chamoun347@example.com,"469 Hamra St, Tripoli",Tripoli,Coastal Med Tyre,Orthopedic Surgeon,1090.45,4.3,34.43995,35.83506
+Ziad Chamoun,+961 70 298 423,ziad.chamoun348@example.com,"471 Jal El Dib Hwy, Byblos",Byblos,St. George Hospital,Psychiatrist,1413.82,4.3,34.135051,35.633993
+Jad Saad,+961 81 891 312,jad.saad349@example.com,"805 Hamra St, Batroun",Batroun,Byblos Health Center,Psychiatrist,148.13,3.5,34.245985,35.65821
+Hadi Fares,+961 71 585 608,hadi.fares350@example.com,"786 Bliss St, Zahle",Zahle,Valley Medical Zahle,Urologist,395.33,4.9,33.843112,35.904321
+Samir Iskandar,+961 71 702 107,samir.iskandar351@example.com,"448 Foch St, Sidon",Sidon,Byblos Health Center,Pediatrician,1725.68,3.1,33.546304,35.357083
+Jad Najjar,+961 75 343 202,jad.najjar352@example.com,"351 Main St, Beirut",Beirut,Valley Medical Zahle,Ophthalmologist,1362.1,3.3,33.888607,35.498077
+Karim Atallah,+961 81 353 359,karim.atallah353@example.com,"342 Jal El Dib Hwy, Tripoli",Tripoli,Coastal Med Tyre,Urologist,1467.17,4.8,34.426652,35.844238
+Rami Sabbagh,+961 78 435 873,rami.sabbagh354@example.com,"216 Main St, Jounieh",Jounieh,North Care Hospital,ENT Specialist,1674.98,3.4,33.984635,35.605781
+Maya Sabbagh,+961 71 263 412,maya.sabbagh355@example.com,"983 Emile Lahoud Blvd, Baabda",Baabda,Byblos Health Center,Family Physician,1744.4,3.7,33.842311,35.534984
+Karim Ayoub,+961 78 729 284,karim.ayoub356@example.com,"38 Abdel Aziz St, Batroun",Batroun,AUBMC Clinic,Psychiatrist,549.51,3.5,34.250553,35.646563
+Karim Masri,+961 71 740 322,karim.masri357@example.com,"42 Mar Elias St, Byblos",Byblos,St. George Hospital,Cardiologist,1863.54,3.8,34.135727,35.652654
+Layla Iskandar,+961 71 369 312,layla.iskandar358@example.com,"44 Foch St, Zahle",Zahle,Valley Medical Zahle,Psychiatrist,1175.1,4.5,33.835943,35.889096
+Lina Ghosn,+961 80 171 342,lina.ghosn359@example.com,"297 Hamra St, Tyre",Tyre,South Coast Medical,Psychiatrist,524.78,3.8,33.261655,35.208473
+Hussein Masri,+961 70 626 456,hussein.masri360@example.com,"729 Bliss St, Zahle",Zahle,North Care Hospital,ENT Specialist,1915.58,3.3,33.857596,35.893547
+Ralph Bitar,+961 81 868 360,ralph.bitar361@example.com,"715 Emile Lahoud Blvd, Byblos",Byblos,LAU Medical Center,Dermatologist,945.22,4.9,34.123859,35.657871
+Karim Helou,+961 71 280 406,karim.helou362@example.com,"806 Furn El Chebbak Rd, Tripoli",Tripoli,AUBMC Clinic,Orthopedic Surgeon,1255.5,3.5,34.439564,35.835434
+Walid Masri,+961 71 747 128,walid.masri363@example.com,"667 Emile Lahoud Blvd, Baabda",Baabda,LAU Medical Center,Gynecologist,1967.28,4.3,33.823479,35.529613
+Lina Fakhry,+961 77 369 687,lina.fakhry364@example.com,"542 Foch St, Byblos",Byblos,St. George Hospital,Family Physician,1932.22,3.0,34.129421,35.650934
+Hadi Khoury,+961 78 952 723,hadi.khoury365@example.com,"85 Jal El Dib Hwy, Beirut",Beirut,AUBMC Clinic,Dentist,1522.12,3.9,33.899516,35.498409
+Ralph Haddad,+961 79 161 743,ralph.haddad366@example.com,"712 Bliss St, Tripoli",Tripoli,North Care Hospital,Gastroenterologist,867.87,4.4,34.42395,35.860702
+Fadi Haddad,+961 80 503 908,fadi.haddad367@example.com,"811 Furn El Chebbak Rd, Jounieh",Jounieh,Valley Medical Zahle,Cardiologist,1961.43,4.0,33.984497,35.620096
+Hala Habib,+961 76 511 339,hala.habib368@example.com,"304 Verdun St, Jounieh",Jounieh,Valley Medical Zahle,Dermatologist,1269.33,3.7,33.987977,35.621468
+Jad Kamal,+961 70 825 709,jad.kamal369@example.com,"134 Hamra St, Jounieh",Jounieh,St. George Hospital,ENT Specialist,1316.0,4.2,33.982536,35.623271
+Karim Sleiman,+961 70 231 127,karim.sleiman370@example.com,"736 Verdun St, Byblos",Byblos,Byblos Health Center,Dentist,55.67,3.9,34.118729,35.640657
+Rita Nassar,+961 76 815 376,rita.nassar371@example.com,"456 Sursock St, Baalbek",Baalbek,St. George Hospital,Family Physician,947.95,4.2,34.015849,36.203194
+Rita Makhlouf,+961 70 751 658,rita.makhlouf372@example.com,"150 Furn El Chebbak Rd, Tyre",Tyre,AUBMC Clinic,General Surgeon,219.08,3.4,33.25889,35.206556
+Jad Barakat,+961 71 665 482,jad.barakat373@example.com,"948 Sursock St, Byblos",Byblos,Valley Medical Zahle,Orthopedic Surgeon,951.08,4.7,34.116851,35.649742
+Rita Ayoub,+961 76 230 312,rita.ayoub374@example.com,"239 Mar Elias St, Baalbek",Baalbek,Coastal Med Tyre,Endocrinologist,1642.19,3.4,34.005926,36.232178
+Joe Sleiman,+961 71 229 446,joe.sleiman375@example.com,"730 Hamra St, Tripoli",Tripoli,Beirut General Hospital,Dermatologist,1632.96,3.2,34.430453,35.840145
+Karim Ayoub,+961 73 984 557,karim.ayoub376@example.com,"836 Gouraud St, Baabda",Baabda,Coastal Med Tyre,Family Physician,639.75,3.9,33.838672,35.554053
+Rami Obeid,+961 78 107 762,rami.obeid377@example.com,"661 Verdun St, Tyre",Tyre,Beirut General Hospital,Cardiologist,899.3,4.8,33.284149,35.192306
+Elie Azar,+961 70 819 132,elie.azar378@example.com,"246 Jal El Dib Hwy, Baalbek",Baalbek,North Care Hospital,General Surgeon,1384.76,4.8,34.004349,36.225041
+Yara Obeid,+961 70 281 337,yara.obeid379@example.com,"106 Main St, Beirut",Beirut,Coastal Med Tyre,Family Physician,1462.03,3.6,33.88821,35.489266
+Lina Kamal,+961 78 950 256,lina.kamal380@example.com,"773 Sursock St, Baabda",Baabda,Coastal Med Tyre,Psychiatrist,151.28,3.4,33.842174,35.545859
+Lina Makhlouf,+961 76 555 170,lina.makhlouf381@example.com,"55 Jal El Dib Hwy, Baabda",Baabda,Valley Medical Zahle,Gynecologist,553.45,4.8,33.825673,35.540132
+Khaled Abi Chahine,+961 76 892 224,khaled.abi chahine382@example.com,"54 Main St, Baalbek",Baalbek,South Coast Medical,Cardiologist,1331.29,3.4,34.009276,36.204667
+Hala Barakat,+961 75 386 803,hala.barakat383@example.com,"977 Main St, Zahle",Zahle,Mount Lebanon Clinic,ENT Specialist,1251.53,4.0,33.858153,35.905586
+Rami Masri,+961 73 684 339,rami.masri384@example.com,"624 Verdun St, Beirut",Beirut,St. George Hospital,General Surgeon,790.37,3.6,33.906854,35.496526
+Maya Choueiri,+961 72 447 312,maya.choueiri385@example.com,"601 Main St, Batroun",Batroun,North Care Hospital,Urologist,1288.56,4.4,34.259698,35.66205
+Hadi Fares,+961 71 287 876,hadi.fares386@example.com,"643 Sursock St, Baalbek",Baalbek,LAU Medical Center,Psychiatrist,1679.34,4.9,33.996545,36.231799
+Omar Masri,+961 77 246 833,omar.masri387@example.com,"7 Verdun St, Baalbek",Baalbek,North Care Hospital,Dentist,1208.16,4.8,33.99442,36.217832
+Ziad Atallah,+961 76 949 499,ziad.atallah388@example.com,"864 Verdun St, Zahle",Zahle,Mount Lebanon Clinic,ENT Specialist,123.98,4.8,33.856014,35.899509
+Rana Haddad,+961 77 798 292,rana.haddad389@example.com,"413 Mar Elias St, Baalbek",Baalbek,Beirut General Hospital,Pediatrician,478.07,4.8,34.013302,36.207999
+Jad Masri,+961 72 986 675,jad.masri390@example.com,"242 Sursock St, Sidon",Sidon,Byblos Health Center,Dentist,975.79,5.0,33.561143,35.375661
+Mona Habib,+961 76 534 173,mona.habib391@example.com,"709 Mar Elias St, Batroun",Batroun,South Coast Medical,ENT Specialist,981.79,3.9,34.250838,35.670607
+Sara Saad,+961 81 856 362,sara.saad392@example.com,"137 Bliss St, Beirut",Beirut,Beirut General Hospital,Pediatrician,1706.85,3.3,33.884301,35.490478
+Mona Haddad,+961 75 567 904,mona.haddad393@example.com,"24 Mar Elias St, Tripoli",Tripoli,Valley Medical Zahle,Neurologist,760.58,4.3,34.435205,35.838179
+Hadi Atallah,+961 80 323 470,hadi.atallah394@example.com,"804 Main St, Sidon",Sidon,Byblos Health Center,Gynecologist,508.15,4.9,33.54931,35.357394
+Samir Barakat,+961 71 405 202,samir.barakat395@example.com,"541 Jal El Dib Hwy, Zahle",Zahle,Beirut General Hospital,ENT Specialist,1583.04,4.5,33.852435,35.901798
+Aisha Iskandar,+961 72 854 926,aisha.iskandar396@example.com,"318 Mar Elias St, Baalbek",Baalbek,St. George Hospital,ENT Specialist,217.07,3.4,34.011265,36.223525
+Nour Makhlouf,+961 76 723 812,nour.makhlouf397@example.com,"322 Foch St, Tripoli",Tripoli,South Coast Medical,Gynecologist,408.98,5.0,34.429125,35.852751
+Layla Azar,+961 76 494 576,layla.azar398@example.com,"587 Main St, Zahle",Zahle,North Care Hospital,Endocrinologist,1843.2,4.5,33.856424,35.900798
+Walid Makhlouf,+961 79 113 753,walid.makhlouf399@example.com,"948 Pasteur St, Beirut",Beirut,South Coast Medical,Gynecologist,293.05,4.5,33.902302,35.50635
