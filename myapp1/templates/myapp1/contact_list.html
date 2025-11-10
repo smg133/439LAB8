@@ -1,26 +1,41 @@
 {% extends "myapp1/base.html" %}
 {% block content %}
 <h1>Contacts</h1>
-<form method="get" style="margin-bottom:1rem;">
-  <input name="q" value="{{ q }}" placeholder="Search by name">
-  <button>Search</button>
+
+<form method="get" style="margin-bottom:1rem">
+  <input type="text" name="q" value="{{ q }}" placeholder="Search by name">
+  <button type="submit">Search</button>
 </form>
 
-<table border="1" cellpadding="6">
-  <tr>
-    <th>Name</th><th>Telephone</th><th>Email</th><th></th>
-  </tr>
+<p><a href="{% url 'contact_create' %}">Add Contact</a> | <a href="{% url 'recommendations' %}">Recommendations</a></p>
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Specialty</th>
+      <th>City</th>
+      <th>Email</th>
+      <th>Telephone</th>
+      <th>Actions</th>
+    </tr>
+  </thead>
+  <tbody>
   {% for c in contacts %}
     <tr>
-      <td>{{ c.name }}</td>
-      <td>{{ c.tel_number }}</td>
-      <td>{{ c.email }}</td>
-      <td><a href="{% url 'contact_detail' c.pk %}">View</a></td>
+      <td><a href="{% url 'contact_detail' c.pk %}">{{ c.display_name }}</a></td>
+      <td>{{ c.specialty|default:"-" }}</td>
+      <td>{{ c.city|default:"-" }}</td>
+      <td>{% if c.email %}<a href="mailto:{{ c.email }}">{{ c.email }}</a>{% else %}-{% endif %}</td>
+      <td>{{ c.tel_number|default:"-" }}</td>
+      <td>
+        <a href="{% url 'contact_update' c.pk %}">Edit</a> |
+        <a href="{% url 'contact_delete' c.pk %}">Delete</a>
+      </td>
     </tr>
   {% empty %}
-    <tr><td colspan="4">No contacts yet.</td></tr>
+    <tr><td colspan="6">No contacts yet.</td></tr>
   {% endfor %}
+  </tbody>
 </table>
-
-<p><a href="{% url 'contact_create' %}">Add contact</a></p>
 {% endblock %}
