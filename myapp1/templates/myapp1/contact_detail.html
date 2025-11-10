@@ -1,0 +1,12 @@
+{% extends "myapp1/base.html" %}
+{% block content %}
+<h2>{{ contact.name }}</h2>
+<p><strong>Telephone:</strong> {{ contact.tel_number }}</p>
+<p><strong>Email:</strong> {{ contact.email }}</p>
+{% if contact.address %}<p><strong>Address:</strong> {{ contact.address }}</p>{% endif %}
+{% if contact.profession %}<p><strong>Profession:</strong> {{ contact.profession }}</p>{% endif %}
+<p>
+  <a href="{% url 'contact_update' contact.pk %}">Edit</a> |
+  <a href="{% url 'contact_delete' contact.pk %}">Delete</a>
+</p>
+{% endblock %}

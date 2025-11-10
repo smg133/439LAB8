@@ -1,0 +1,26 @@
+{% extends "myapp1/base.html" %}
+{% block content %}
+<h1>Contacts</h1>
+<form method="get" style="margin-bottom:1rem;">
+  <input name="q" value="{{ q }}" placeholder="Search by name">
+  <button>Search</button>
+</form>
+
+<table border="1" cellpadding="6">
+  <tr>
+    <th>Name</th><th>Telephone</th><th>Email</th><th></th>
+  </tr>
+  {% for c in contacts %}
+    <tr>
+      <td>{{ c.name }}</td>
+      <td>{{ c.tel_number }}</td>
+      <td>{{ c.email }}</td>
+      <td><a href="{% url 'contact_detail' c.pk %}">View</a></td>
+    </tr>
+  {% empty %}
+    <tr><td colspan="4">No contacts yet.</td></tr>
+  {% endfor %}
+</table>
+
+<p><a href="{% url 'contact_create' %}">Add contact</a></p>
+{% endblock %}
