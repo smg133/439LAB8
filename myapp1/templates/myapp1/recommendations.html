@@ -1,32 +1,195 @@
 {% extends "myapp1/base.html" %}
 {% block content %}
-<h2>Recommendations</h2>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+  }
+  .page-container {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  h2 {
+    margin-top: 0.5rem;
+  }
+  .card {
+    background: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 1rem;
+  }
+  .card h3 {
+    margin-top: 0;
+    margin-bottom: 0.75rem;
+  }
+  .form-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    align-items: center;
+  }
+  .form-row label {
+    font-size: 0.9rem;
+  }
+  .form-row input {
+    padding: 0.25rem 0.4rem;
+    border-radius: 4px;
+    border: 1px solid #d1d5db;
+  }
+  .btn {
+    display: inline-block;
+    padding: 0.35rem 0.8rem;
+    border-radius: 4px;
+    border: 1px solid transparent;
+    cursor: pointer;
+    font-size: 0.9rem;
+    text-decoration: none;
+  }
+  .btn-primary {
+    background: #2563eb;
+    color: white;
+    border-color: #2563eb;
+  }
+  .btn-secondary {
+    background: #e5e7eb;
+    color: #111827;
+    border-color: #d1d5db;
+  }
+  .btn + .btn {
+    margin-left: 0.5rem;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 0.5rem;
+  }
+  th, td {
+    border: 1px solid #e5e7eb;
+    padding: 0.4rem 0.6rem;
+    font-size: 0.9rem;
+    text-align: left;
+  }
+  th {
+    background: #f3f4f6;
+  }
+  tr:nth-child(even) {
+    background: #f9fafb;
+  }
+</style>
 
-<form method="get" style="margin-bottom:1rem">
-  <input name="specialty" placeholder="Specialty" value="{{ params.specialty }}">
-  <input name="city" placeholder="City" value="{{ params.city }}">
-  <input name="max_fee" placeholder="Max fee" value="{{ params.max_fee }}">
-  <input name="lat" placeholder="Your lat" value="{{ params.lat }}">
-  <input name="lng" placeholder="Your lng" value="{{ params.lng }}">
-  <input name="max_km" placeholder="Max km" value="{{ params.max_km }}">
-  <button type="submit">Search</button>
-</form>
+<div class="page-container">
+  <h2>Doctor Recommendations</h2>
 
-<table border="1" cellpadding="6">
-  <tr>
-    <th>Name</th><th>Specialty</th><th>City</th><th>Fee</th><th>Rating</th><th>Distance (km)</th>
-  </tr>
-  {% for dist, c in results %}
-  <tr>
-    <td><a href="{% url 'contact_detail' c.pk %}">{{ c.display_name }}</a></td>
-    <td>{{ c.specialty|default:"-" }}</td>
-    <td>{{ c.city|default:"-" }}</td>
-    <td>{% if c.fee %}{{ c.fee }}{% else %}-{% endif %}</td>
-    <td>{% if c.rating %}{{ c.rating }}{% else %}-{% endif %}</td>
-    <td>{% if dist %}{{ dist|floatformat:2 }}{% else %}-{% endif %}</td>
-  </tr>
-  {% empty %}
-  <tr><td colspan="6">No results.</td></tr>
-  {% endfor %}
-</table>
+  <div class="card">
+    <h3>Smart search (AI-style)</h3>
+    <form method="get" class="form-row" style="margin-bottom:0.5rem">
+      <input type="text"
+             name="q_nl"
+             style="flex:1 1 auto"
+             placeholder="Example: cheap cardiologists in Beirut with high rating under 2000 within 5 km"
+             value="{{ params.q_nl }}">
+      <button type="submit" class="btn btn-primary">Search</button>
+      <!-- Reset: clears all filters and shows all doctors -->
+      <a href="{% url 'recommendations' %}" class="btn btn-secondary">Reset</a>
+    </form>
+
+    {% if params.parsed %}
+      <p style="font-size:0.9rem;"><strong>Interpreted filters (from natural language):</strong></p>
+      <ul style="font-size:0.9rem; margin-top:0;">
+        <li>Specialty: {{ params.parsed.specialty|default:"(none)" }}</li>
+        <li>City: {{ params.parsed.city|default:"(none)" }}</li>
+        <li>Max fee:
+          {% if params.parsed.max_fee %}
+            {{ params.parsed.max_fee }}
+          {% else %}
+            (none)
+          {% endif %}
+        </li>
+        <li>Min rating:
+          {% if params.parsed.min_rating %}
+            {{ params.parsed.min_rating }}
+          {% else %}
+            (none)
+          {% endif %}
+        </li>
+        <li>Max distance (km):
+          {% if params.parsed.max_km %}
+            {{ params.parsed.max_km }}
+          {% else %}
+            (none)
+          {% endif %}
+        </li>
+      </ul>
+    {% endif %}
+  </div>
+
+  <div class="card">
+    <h3>Advanced filters (override smart search)</h3>
+    <form method="get">
+      <input type="hidden" name="q_nl" value="{{ params.q_nl }}">
+      <div class="form-row" style="margin-bottom:0.5rem">
+        <label>
+          Specialty<br>
+          <input name="specialty" value="{{ params.specialty }}">
+        </label>
+        <label>
+          City<br>
+          <input name="city" value="{{ params.city }}">
+        </label>
+        <label>
+          Max fee<br>
+          <input name="max_fee" value="{{ params.max_fee }}">
+        </label>
+        <label>
+          Min rating<br>
+          <input name="min_rating" value="{{ params.min_rating }}">
+        </label>
+      </div>
+      <div class="form-row">
+        <label>
+          Your lat<br>
+          <input name="lat" value="{{ params.lat }}">
+        </label>
+        <label>
+          Your lng<br>
+          <input name="lng" value="{{ params.lng }}">
+        </label>
+        <label>
+          Max km<br>
+          <input name="max_km" value="{{ params.max_km }}">
+        </label>
+        <div style="margin-top:1.2rem;">
+          <button type="submit" class="btn btn-primary">Apply filters</button>
+          <a href="{% url 'recommendations' %}" class="btn btn-secondary">Reset</a>
+        </div>
+      </div>
+    </form>
+  </div>
+
+  <div class="card">
+    <h3>Results</h3>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>Specialty</th>
+        <th>City</th>
+        <th>Fee</th>
+        <th>Rating</th>
+        <th>Distance (km)</th>
+      </tr>
+      {% for dist, c in results %}
+        <tr>
+          <td><a href="{% url 'contact_detail' c.pk %}">{{ c.display_name }}</a></td>
+          <td>{{ c.specialty|default:"-" }}</td>
+          <td>{{ c.city|default:"-" }}</td>
+          <td>{% if c.fee %}{{ c.fee }}{% else %}-{% endif %}</td>
+          <td>{% if c.rating %}{{ c.rating }}{% else %}-{% endif %}</td>
+          <td>{% if dist %}{{ dist|floatformat:2 }}{% else %}-{% endif %}</td>
+        </tr>
+      {% empty %}
+        <tr><td colspan="6">No results.</td></tr>
+      {% endfor %}
+    </table>
+  </div>
+</div>
 {% endblock %}
