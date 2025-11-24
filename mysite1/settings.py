@@ -31,7 +31,8 @@ DEBUG = False
 ALLOWED_HOSTS = ["*"]  
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://doctor-reco-439-dnbabbdqbsandgb6.italynorth-01.azurewebsites.net",
+    "doctor-reco-439-dnbabbdgbsandgb6.italynorth-01.azurewebsites.net",
+    "https://*.azurewebsites.net",
 ]
 
 
